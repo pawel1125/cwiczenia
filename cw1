@@ -1,0 +1,6 @@
+
+
+imie = input("Jak masz na imię: ")
+wiek = int(input("Ile masz lat: "))
+
+print("Masz na imię", imie, "i brakuje Ci", 100 - wiek, "lat do setki")
